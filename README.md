@@ -1,2 +1,2 @@
-# SpringFlare
-A dynamic and resilient Java-based backend powered by Spring for application development.
+# MongoDB Concepts
+A repository to implement various mongodb concepts.
